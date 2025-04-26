@@ -1,1 +1,2 @@
 we are learning git and git hub
+it is easy
